@@ -53,7 +53,7 @@ Wait for the installation to complete.
 Step 5: Installing Weaverse Hydrogen
 In the console, install Weaverse Hydrogen, an app with dynamic and elegant user interfaces (two are free) that can be customized and modified. Run the following command:
 
-npx @weaverse/cli@latest create --template=naturallie --project-id=0028764239478jdklf --project-name=my-hydrogen-storefront
+npx @weaverse/cli@latest create --template=naturallie --project-id=############# --project-name=my-hydrogen-storefront
 
 You can obtain this command from the Shopify app after creating a new project in Weaverse Hydrogen. Select the theme you like, and the app will generate a command with the details of the chosen template.
 The project ID and port number will also be displayed on the same screen and later in the console.
@@ -69,9 +69,9 @@ The .env file will be configured as follows:
 SESSION_SECRET=
 PUBLIC_STOREFRONT_API_TOKEN=
 PUBLIC_STORE_DOMAIN=
-PUBLIC_CUSTOMER_ACCOUNT_API_CLIENT_ID= 
-PUBLIC_CUSTOMER_ACCOUNT_API_URL=  
-PUBLIC_CHECKOUT_DOMAIN= 
+PUBLIC_CUSTOMER_ACCOUNT_API_CLIENT_ID=
+PUBLIC_CUSTOMER_ACCOUNT_API_URL=
+PUBLIC_CHECKOUT_DOMAIN=
 PRIVATE_STOREFRONT_API_TOKEN=  
 
 # WEAVERSE CONFIGURATION  
