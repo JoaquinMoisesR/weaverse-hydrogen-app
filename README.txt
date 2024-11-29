@@ -66,16 +66,7 @@ Ensure you have Node.js and npm installed. I recommend Node.js version 18.
 
 The .env file will be configured as follows:
 
-SESSION_SECRET=
-PUBLIC_STOREFRONT_API_TOKEN=
-PUBLIC_STORE_DOMAIN=
-PUBLIC_CUSTOMER_ACCOUNT_API_CLIENT_ID=
-PUBLIC_CUSTOMER_ACCOUNT_API_URL=
-PUBLIC_CHECKOUT_DOMAIN=
-PRIVATE_STOREFRONT_API_TOKEN=  
 
-# WEAVERSE CONFIGURATION  
-WEAVERSE_PROJECT_ID=
 The information is sourced primarily from Weaverse and Headless.
 
 Step 8: Running the App
