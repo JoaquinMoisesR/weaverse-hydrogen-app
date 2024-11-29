@@ -4,7 +4,7 @@
     "sideEffects": false,
     "version": "2.0.9",
     "scripts": {
-        "build": "shopify hydrogen build --codegen",
+        "build": "vite build",
         "dev": "shopify hydrogen dev --port 3456 --codegen",
         "preview": "npm run build && shopify hydrogen preview",
         "typecheck": "tsc --noEmit",
