@@ -75,7 +75,7 @@ PUBLIC_CHECKOUT_DOMAIN=
 PRIVATE_STOREFRONT_API_TOKEN=  
 
 # WEAVERSE CONFIGURATION  
-WEAVERSE_PROJECT_ID=w934eppxlcws9x4jdtp8r1u5  
+WEAVERSE_PROJECT_ID=
 The information is sourced primarily from Weaverse and Headless.
 
 Step 8: Running the App
